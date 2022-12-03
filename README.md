@@ -1,5 +1,5 @@
 ## Hive OS Drive Flashing Utility
-
+https://user-images.githubusercontent.com/38013470/45325818-a2ee2400-b55a-11e8-9905-6072a9d904b2.png
 ![how it looks like](https://user-images.githubusercontent.com/38013470/45325818-a2ee2400-b55a-11e8-9905-6072a9d904b2.png)
 
 
@@ -48,7 +48,7 @@ If WORKER_NAME is set in `rig-config-example.txt` and Static IP is configured th
 So WORKER_NAME is used as a prefix. 
 Let's say WORKER_NAME is set to "rig" then if you have static network the name would become "rig-192.168.0.13".
  
-
+https://user-images.githubusercontent.com/38013470/45
 
 ### Manual actions
 
